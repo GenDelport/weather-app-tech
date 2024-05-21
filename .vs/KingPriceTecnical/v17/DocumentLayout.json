@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cloet\\OneDrive\\Desktop\\Projects\\KingPriceTecnical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7A7624-840A-4B3E-B61B-C1D166ADD136}|kingpricetecnical.client\\kingpricetecnical.client.esproj|c:\\users\\cloet\\onedrive\\desktop\\projects\\kingpricetecnical\\kingpricetecnical.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{8D7A7624-840A-4B3E-B61B-C1D166ADD136}|kingpricetecnical.client\\kingpricetecnical.client.esproj|solutionrelative:kingpricetecnical.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7A7624-840A-4B3E-B61B-C1D166ADD136}|kingpricetecnical.client\\kingpricetecnical.client.esproj|c:\\users\\cloet\\onedrive\\desktop\\projects\\kingpricetecnical\\kingpricetecnical.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D7A7624-840A-4B3E-B61B-C1D166ADD136}|kingpricetecnical.client\\kingpricetecnical.client.esproj|solutionrelative:kingpricetecnical.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AFE563-17F1-4433-8A8D-6ADC3669D879}|KingPriceTecnical.Server\\KingPriceTecnical.Server.csproj|c:\\users\\cloet\\onedrive\\desktop\\projects\\kingpricetecnical\\kingpricetecnical.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AFE563-17F1-4433-8A8D-6ADC3669D879}|KingPriceTecnical.Server\\KingPriceTecnical.Server.csproj|solutionrelative:kingpricetecnical.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\cloet\\OneDrive\\Desktop\\Projects\\KingPriceTecnical\\kingpricetecnical.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "kingpricetecnical.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\cloet\\OneDrive\\Desktop\\Projects\\KingPriceTecnical\\kingpricetecnical.client\\src\\App.jsx",
+              "RelativeToolTip": "kingpricetecnical.client\\src\\App.jsx",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswGgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-18T11:50:17.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\cloet\\OneDrive\\Desktop\\Projects\\KingPriceTecnical\\kingpricetecnical.client\\src\\App.css",
+              "RelativeDocumentMoniker": "kingpricetecnical.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\cloet\\OneDrive\\Desktop\\Projects\\KingPriceTecnical\\kingpricetecnical.client\\src\\App.css",
+              "RelativeToolTip": "kingpricetecnical.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-18T13:41:22.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\cloet\\OneDrive\\Desktop\\Projects\\KingPriceTecnical\\KingPriceTecnical.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "KingPriceTecnical.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\cloet\\OneDrive\\Desktop\\Projects\\KingPriceTecnical\\KingPriceTecnical.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "KingPriceTecnical.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:38:14.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
